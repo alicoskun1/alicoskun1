@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="380" alt="Coding Animation" />
-</p>
-<h2 align="center">Ali Coşkun</h2>
-<p align="center"><em>Yazılım Mühendisliği Öğrencisi • Problem Çözücü • Açık Kaynak Meraklısı</em></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="420" alt="Coding GIF" />
+  
+  # Ali Coşkun
+  <p><strong>Yazılım Mühendisliği Öğrencisi | Kod, Mantık & Mimari</strong></p>
+  <p><em>"Talk is cheap. Show me the code."</em></p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Ho%C5%9F+Geldiniz!" alt="Typing SVG" />

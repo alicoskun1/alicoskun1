@@ -2,10 +2,8 @@
   <img src="header.gif" width="400" alt="Ali Coding Animation" />
   
   <h1>Ali Coşkun</h1>
-  <p>⚡ <strong>Exploring the Foundations of Computer Science</strong></p>
+  <p>⚡ <strong>FULL STACK DEVELOPER</strong></p>
 </div>
-
-
 
 </div>
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=ali@dev:~$%20whoami&text2=Ali%20Coskun%20|%20Software%20Engineer%20in%20Progress&width=800&height=210" alt="Terminal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0d1117,1e1e2e,3b82f6,06b6d4&height=200&section=header&text=ALI%20COSKUN&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=%3CBuilding%20Logic%20Through%20Code%20/%3E&descSize=18&descColor=67e8f9&descAlignY=65" alt="Slice Header" width="100%" />
 </p>
 
 <p align="center">

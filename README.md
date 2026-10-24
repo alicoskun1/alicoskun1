@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="420" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="Isometric Dev GIF" />
   
   # Ali Coşkun
-  <p><strong>Yazılım Mühendisliği Öğrencisi | Kod, Mantık & Mimari</strong></p>
-  <p><em>"Talk is cheap. Show me the code."</em></p>
+  <p>🚀 <strong>Algoritmalar • Veri Yapıları • Sistemler</strong></p>
 </div>
 
 <p align="center">

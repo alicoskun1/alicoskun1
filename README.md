@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0d1117,1e1e2e,3b82f6,06b6d4&height=200&section=header&text=ALI%20COSKUN&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=%3CBuilding%20Logic%20Through%20Code%20/%3E&descSize=18&descColor=67e8f9&descAlignY=65" alt="Slice Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="380" alt="Coding Animation" />
 </p>
+<h2 align="center">Ali Coşkun</h2>
+<p align="center"><em>Yazılım Mühendisliği Öğrencisi • Problem Çözücü • Açık Kaynak Meraklısı</em></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Ho%C5%9F+Geldiniz!" alt="Typing SVG" />

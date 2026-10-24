@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/EkbDFCWock6xlXPtxi/giphy.gif" width="400" alt="Ali Coding Animation" />
+  <img src="header.gif" width="400" alt="Ali Coding Animation" />
   
   <h1>Ali Coşkun</h1>
   <p>⚡ <strong>Exploring the Foundations of Computer Science</strong></p>
 </div>
-
-
 
 
 

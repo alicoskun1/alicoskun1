@@ -3,7 +3,7 @@
     <td width="50%" valign="top">
       <h1>Merhaba, Ben Ali! 👋</h1>
       <p>🚀 <strong>Yazılım Mühendisliği Öğrencisi</strong></p>
-      <p>Sistemler, Problem Çözme ve Savunma Sanayi üzerine çalışıyorum.</p>
+      <p>Sistemler, Problem Çözme ve Savunma Sanayi Üzerine Çalışıyorum.</p>
       <br>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />

@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="Isometric Dev GIF" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360" alt="Matrix Terminal GIF" />
   
   # Ali Coşkun
-  <p>🚀 <strong>Algoritmalar • Veri Yapıları • Sistemler</strong></p>
+  <p>⚡ <strong>Exploring the Foundations of Computer Science</strong></p>
 </div>
 
 <p align="center">

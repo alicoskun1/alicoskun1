@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360" alt="Matrix Terminal GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFjYXB0aXh0eWlqZndvNWU4MDVncXg0OGIxbHo1eWptcHBheGgxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/EkbDFCWock6xlXPtxi/giphy.gif" width="400" alt="Ali Coding Animation" />
   
-  # Ali Coşkun
+  <h1>Ali Coşkun</h1>
   <p>⚡ <strong>Exploring the Foundations of Computer Science</strong></p>
 </div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Ho%C5%9F+Geldiniz!" alt="Typing SVG" />
 </p>

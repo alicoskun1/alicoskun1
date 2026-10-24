@@ -3,7 +3,7 @@
     <td width="50%" valign="top">
       <h1>Merhaba, Ben Ali! 👋</h1>
       <p>🚀 <strong>Yazılım Mühendisliği Öğrencisi</strong></p>
-      <p>Algoritmalar, problem çözme ve modern sistem mimarileri üzerine çalışıyorum.</p>
+      <p>Sistemler, Problem Çözme ve Savunma Sanayi üzerine çalışıyorum.</p>
       <br>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -16,6 +16,7 @@
     </td>
   </tr>
 </table>
+
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Ho%C5%9F+Geldiniz!" alt="Typing SVG" />

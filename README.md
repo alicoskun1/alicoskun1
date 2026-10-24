@@ -24,13 +24,11 @@ Kod yazmayı, yeni teknolojiler keşfetmeyi ve sistemlerin arkasındaki mantığ
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alicoskun1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicoskun1&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
----
 
 📫 **Bana Ulaşın:**
 - LinkedIn: https://www.linkedin.com/in/ali-co%C5%9Fkun-b9700043a/

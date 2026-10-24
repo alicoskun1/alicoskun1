@@ -54,6 +54,21 @@ Kod yazmayı, yeni teknolojiler keşfetmeyi ve sistemlerin arkasındaki mantığ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicoskun1&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-📫 **Bana Ulaşın:**
-- LinkedIn: https://www.linkedin.com/in/ali-co%C5%9Fkun-b9700043a/
-- E-posta: alicskn023@gmail.com
+---
+
+### 🌐 Bana Ulaşın
+
+<p align="center">
+  <a href="https://linkedin.com/in/ali-coşkun-b9700043a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alicskn023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/alicsknq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>

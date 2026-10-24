@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=200&section=header&text=Ali%20Coşkun&fontSize=50&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=20&descAlignY=60" alt="Header" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Ho%C5%9F+Geldiniz!" alt="Typing SVG" />
 </p>
 

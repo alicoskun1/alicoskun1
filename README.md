@@ -46,15 +46,6 @@ Kod yazmayı, yeni teknolojiler keşfetmeyi ve sistemlerin arkasındaki mantığ
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicoskun1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicoskun1&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
 
 ### 🌐 Bana Ulaşın
 
